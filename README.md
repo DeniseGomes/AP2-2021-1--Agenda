@@ -1,2 +1,2 @@
-# AP2-2021-1--Rotina-de-estudos
-Projeto de gerenciamento de estudos e rotina de estudante
+# AP2-2021-1--Agenda
+Projeto de gerenciamento de contatos
